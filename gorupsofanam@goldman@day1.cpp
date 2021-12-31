@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-//https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#
+//https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/
 class Solution{
     public:
         vector<vector<string> > Anagrams(vector<string>& string_list) {
